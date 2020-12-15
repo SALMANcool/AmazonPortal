@@ -1,0 +1,2 @@
+cd C:\Users\salman\workspace\AmazonPortal
+mvn clean install

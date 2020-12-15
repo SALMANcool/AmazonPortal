@@ -1,0 +1,396 @@
+2020-12-11 16:02:11,464 - BaseClass -INFO - LaunchUrl
+2020-12-12 08:05:12,833 - AmazonPortal -INFO - launch URL
+2020-12-12 08:05:21,257 - AmazonPortal -INFO - click on signIn Button
+2020-12-12 08:19:59,626 - AmazonPortal -INFO - launch URL
+2020-12-12 08:20:04,712 - AmazonPortal -INFO - click on signIn Button
+2020-12-12 08:20:05,046 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-12 08:20:07,407 - AmazonPortal -INFO - click on login button
+2020-12-12 08:20:07,738 - AmazonPortal -INFO - Enter Password
+2020-12-12 08:20:08,072 - AmazonPortal -INFO - select CheckBox
+2020-12-12 08:20:08,330 - AmazonPortal -INFO - click on login button
+2020-12-12 08:20:51,464 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-12 08:21:07,026 - AmazonPortal -INFO - click on search button
+2020-12-12 08:21:07,765 - AmazonPortal -INFO - click on product which we have to select
+2020-12-12 08:21:17,806 - AmazonPortal -INFO - click on Buy now Button
+2020-12-12 08:21:21,640 - AmazonPortal -INFO - Enter full name in Address page
+2020-12-12 08:21:21,933 - AmazonPortal -INFO - Enter phone number in Address page
+2020-12-12 08:21:22,176 - AmazonPortal -INFO - Enter pincode in Address page
+2020-12-12 08:21:22,448 - AmazonPortal -INFO - Enter doorno in Addresspage
+2020-12-12 08:21:22,833 - AmazonPortal -INFO - Enter full address in Address page
+2020-12-12 08:21:23,364 - AmazonPortal -INFO - Enter landmark in the Address page
+2020-12-12 08:21:23,654 - AmazonPortal -INFO - select Dropdown 
+2020-12-12 08:21:24,004 - AmazonPortal -INFO - select homedelivery
+2020-12-12 08:21:24,210 - AmazonPortal -INFO - click on submit button
+2020-12-12 08:35:49,083 - AmazonPortal -INFO - launch URL
+2020-12-12 08:36:25,323 - AmazonPortal -INFO - launch URL
+2020-12-12 08:36:29,124 - AmazonPortal -INFO - click on signIn Button
+2020-12-12 08:36:29,449 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-12 08:36:32,059 - AmazonPortal -INFO - click on login button
+2020-12-12 08:36:32,236 - AmazonPortal -INFO - Enter Password
+2020-12-12 08:36:32,705 - AmazonPortal -INFO - select CheckBox
+2020-12-12 08:36:32,989 - AmazonPortal -INFO - click on login button
+2020-12-12 08:51:25,775 - AmazonPortal -INFO - launch URL
+2020-12-12 08:51:28,628 - AmazonPortal -INFO - click on signIn Button
+2020-12-12 08:54:01,371 - AmazonPortal -INFO - launch URL
+2020-12-12 08:54:04,265 - AmazonPortal -INFO - click on signIn Button
+2020-12-12 09:00:04,950 - AmazonPortal -INFO - launch URL
+2020-12-12 09:00:09,236 - AmazonPortal -INFO - click on signIn Button
+2020-12-12 09:02:18,313 - AmazonPortal -INFO - launch URL
+2020-12-13 06:31:17,239 - AmazonPortal -INFO - launch URL
+2020-12-13 06:31:21,310 - AmazonPortal -INFO - click on signIn Button
+2020-12-13 09:45:56,810 - AmazonPortal -INFO - launch URL
+2020-12-13 10:00:34,710 - AmazonPortal -INFO - launch URL
+2020-12-13 10:00:46,449 - AmazonPortal -INFO - click on signIn Button
+2020-12-13 10:06:05,546 - AmazonPortal -INFO - launch URL
+2020-12-13 10:06:08,562 - AmazonPortal -INFO - click on signIn Button
+2020-12-13 10:12:29,063 - AmazonPortal -INFO - launch URL
+2020-12-13 10:12:44,032 - AmazonPortal -INFO - click on signIn Button
+2020-12-13 10:29:53,004 - AmazonPortal -INFO - launch URL
+2020-12-13 10:33:12,189 - AmazonPortal -INFO - launch URL
+2020-12-13 11:08:42,149 - AmazonPortal -INFO - launch URL
+2020-12-13 11:08:48,876 - AmazonPortal -INFO - click on signIn Button
+2020-12-13 11:08:50,307 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-13 11:08:52,265 - AmazonPortal -INFO - click on login button
+2020-12-13 11:08:52,504 - AmazonPortal -INFO - Enter Password
+2020-12-13 11:08:52,638 - AmazonPortal -INFO - select CheckBox
+2020-12-13 11:08:52,893 - AmazonPortal -INFO - click on login button
+2020-12-13 11:09:40,101 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-13 11:09:45,673 - AmazonPortal -INFO - click on search button
+2020-12-13 11:48:20,252 - AmazonPortal -INFO - LaunchUrl
+2020-12-13 11:48:24,903 - AmazonPortal -INFO - clickonSigninButton
+2020-12-13 11:54:36,822 - AmazonPortal -INFO - LaunchUrl
+2020-12-13 11:54:38,517 - AmazonPortal -INFO - clickonSigninButton
+2020-12-13 11:56:42,201 - AmazonPortal -INFO - LaunchUrl
+2020-12-13 11:56:43,897 - AmazonPortal -INFO - clickonSigninButton
+2020-12-13 11:59:08,588 - AmazonPortal -INFO - LaunchUrl
+2020-12-13 11:59:10,867 - AmazonPortal -INFO - clickonSigninButton
+2020-12-13 12:04:03,778 - AmazonPortal -INFO - LaunchUrl
+2020-12-13 12:04:09,698 - AmazonPortal -INFO - clickonSigninButton
+2020-12-13 12:10:32,004 - AmazonPortal -INFO - LaunchUrl
+2020-12-13 12:10:38,086 - AmazonPortal -INFO - clickonSigninButton
+2020-12-13 12:22:38,847 - AmazonPortal -INFO - LaunchUrl
+2020-12-13 12:22:40,327 - AmazonPortal -INFO - clickonSigninButton
+2020-12-13 12:26:32,545 - AmazonPortal -INFO - LaunchUrl
+2020-12-13 12:26:34,941 - AmazonPortal -INFO - clickonSigninButton
+2020-12-13 12:29:01,433 - AmazonPortal -INFO - LaunchUrl
+2020-12-13 12:29:04,952 - AmazonPortal -INFO - clickonSigninButton
+2020-12-13 12:51:45,060 - AmazonPortal -INFO - launch URL
+2020-12-13 12:51:49,614 - AmazonPortal -INFO - click on signIn Button
+2020-12-13 12:55:14,616 - AmazonPortal -INFO - launch URL
+2020-12-13 12:55:16,525 - AmazonPortal -INFO - click on signIn Button
+2020-12-13 12:55:16,803 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-13 12:55:19,364 - AmazonPortal -INFO - click on login button
+2020-12-13 13:18:53,133 - AmazonPortal -INFO - launch URL
+2020-12-13 13:18:56,520 - AmazonPortal -INFO - click on signIn Button
+2020-12-13 13:18:56,759 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-13 13:18:58,469 - AmazonPortal -INFO - click on login button
+2020-12-13 13:18:58,663 - AmazonPortal -INFO - Enter Password
+2020-12-13 13:18:58,866 - AmazonPortal -INFO - select CheckBox
+2020-12-13 13:18:59,347 - AmazonPortal -INFO - click on login button
+2020-12-13 13:19:08,222 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-13 13:19:11,914 - AmazonPortal -INFO - click on search button
+2020-12-13 15:59:54,424 - AmazonPortal -INFO - launch URL
+2020-12-14 08:06:51,578 - AmazonPortal -INFO - launch URL
+2020-12-14 08:07:16,037 - AmazonPortal -INFO - launch URL
+2020-12-14 08:07:18,108 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 08:07:18,336 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 08:07:19,863 - AmazonPortal -INFO - click on login button
+2020-12-14 08:07:20,052 - AmazonPortal -INFO - Enter Password
+2020-12-14 08:07:20,182 - AmazonPortal -INFO - select CheckBox
+2020-12-14 08:07:20,463 - AmazonPortal -INFO - click on login button
+2020-12-14 08:08:13,314 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 08:08:17,497 - AmazonPortal -INFO - click on search button
+2020-12-14 08:34:54,878 - AmazonPortal -INFO - launch URL
+2020-12-14 08:34:59,810 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 08:35:00,538 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 08:35:02,505 - AmazonPortal -INFO - click on login button
+2020-12-14 08:35:02,690 - AmazonPortal -INFO - Enter Password
+2020-12-14 08:35:02,892 - AmazonPortal -INFO - select CheckBox
+2020-12-14 08:35:03,156 - AmazonPortal -INFO - click on login button
+2020-12-14 08:43:01,671 - AmazonPortal -INFO - launch URL
+2020-12-14 08:43:08,122 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 08:43:08,482 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 08:43:10,803 - AmazonPortal -INFO - click on login button
+2020-12-14 08:43:11,096 - AmazonPortal -INFO - Enter Password
+2020-12-14 08:43:11,301 - AmazonPortal -INFO - select CheckBox
+2020-12-14 08:43:11,720 - AmazonPortal -INFO - click on login button
+2020-12-14 08:45:58,138 - AmazonPortal -INFO - launch URL
+2020-12-14 08:46:03,049 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 08:46:03,449 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 08:46:06,323 - AmazonPortal -INFO - click on login button
+2020-12-14 08:46:06,688 - AmazonPortal -INFO - Enter Password
+2020-12-14 08:46:06,880 - AmazonPortal -INFO - select CheckBox
+2020-12-14 08:46:07,334 - AmazonPortal -INFO - click on login button
+2020-12-14 08:46:46,173 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 08:46:55,264 - AmazonPortal -INFO - click on search button
+2020-12-14 08:57:56,453 - AmazonPortal -INFO - launch URL
+2020-12-14 08:58:04,101 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 08:58:04,322 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 08:58:05,674 - AmazonPortal -INFO - click on login button
+2020-12-14 08:58:05,864 - AmazonPortal -INFO - Enter Password
+2020-12-14 08:58:06,023 - AmazonPortal -INFO - select CheckBox
+2020-12-14 08:58:06,338 - AmazonPortal -INFO - click on login button
+2020-12-14 08:58:36,868 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 08:58:46,421 - AmazonPortal -INFO - click on search button
+2020-12-14 09:35:58,576 - AmazonPortal -INFO - launch URL
+2020-12-14 09:36:00,545 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 09:36:00,777 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 09:36:02,488 - AmazonPortal -INFO - click on login button
+2020-12-14 09:36:02,675 - AmazonPortal -INFO - Enter Password
+2020-12-14 09:36:02,828 - AmazonPortal -INFO - select CheckBox
+2020-12-14 09:36:03,157 - AmazonPortal -INFO - click on login button
+2020-12-14 09:36:39,195 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 09:36:42,204 - AmazonPortal -INFO - click on search button
+2020-12-14 09:40:53,444 - AmazonPortal -INFO - launch URL
+2020-12-14 09:40:56,304 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 09:40:56,572 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 09:40:58,155 - AmazonPortal -INFO - click on login button
+2020-12-14 09:40:58,341 - AmazonPortal -INFO - Enter Password
+2020-12-14 09:40:58,535 - AmazonPortal -INFO - select CheckBox
+2020-12-14 09:40:58,832 - AmazonPortal -INFO - click on login button
+2020-12-14 09:41:34,875 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 09:41:41,529 - AmazonPortal -INFO - click on search button
+2020-12-14 09:49:36,463 - AmazonPortal -INFO - launch URL
+2020-12-14 09:49:38,369 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 09:49:38,649 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 09:49:40,240 - AmazonPortal -INFO - click on login button
+2020-12-14 09:49:40,429 - AmazonPortal -INFO - Enter Password
+2020-12-14 09:49:40,621 - AmazonPortal -INFO - select CheckBox
+2020-12-14 09:49:40,899 - AmazonPortal -INFO - click on login button
+2020-12-14 09:50:14,476 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 09:50:15,142 - AmazonPortal -INFO - click on search button
+2020-12-14 09:52:10,559 - AmazonPortal -INFO - launch URL
+2020-12-14 09:52:12,366 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 09:52:12,557 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 09:52:12,726 - AmazonPortal -INFO - click on login button
+2020-12-14 09:59:39,675 - AmazonPortal -INFO - launch URL
+2020-12-14 09:59:44,426 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 09:59:44,706 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 09:59:46,426 - AmazonPortal -INFO - click on login button
+2020-12-14 09:59:46,630 - AmazonPortal -INFO - Enter Password
+2020-12-14 09:59:46,813 - AmazonPortal -INFO - select CheckBox
+2020-12-14 09:59:47,072 - AmazonPortal -INFO - click on login button
+2020-12-14 10:00:22,611 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 10:00:27,316 - AmazonPortal -INFO - click on search button
+2020-12-14 10:02:43,185 - AmazonPortal -INFO - launch URL
+2020-12-14 10:02:47,176 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 10:02:47,405 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 10:02:49,219 - AmazonPortal -INFO - click on login button
+2020-12-14 10:02:49,434 - AmazonPortal -INFO - Enter Password
+2020-12-14 10:02:49,591 - AmazonPortal -INFO - select CheckBox
+2020-12-14 10:02:49,903 - AmazonPortal -INFO - click on login button
+2020-12-14 10:03:14,391 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 10:03:17,604 - AmazonPortal -INFO - click on search button
+2020-12-14 10:56:44,754 - AmazonPortal -INFO - launch URL
+2020-12-14 10:56:46,338 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 10:56:46,482 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 10:56:46,608 - AmazonPortal -INFO - click on login button
+2020-12-14 11:01:47,292 - AmazonPortal -INFO - launch URL
+2020-12-14 11:01:52,497 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 11:01:52,958 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 11:01:54,801 - AmazonPortal -INFO - click on login button
+2020-12-14 11:01:55,057 - AmazonPortal -INFO - Enter Password
+2020-12-14 11:01:55,350 - AmazonPortal -INFO - select CheckBox
+2020-12-14 11:01:55,733 - AmazonPortal -INFO - click on login button
+2020-12-14 11:02:49,494 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 11:02:54,067 - AmazonPortal -INFO - click on search button
+2020-12-14 11:06:19,523 - AmazonPortal -INFO - launch URL
+2020-12-14 11:06:24,090 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 11:06:24,318 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 11:06:25,661 - AmazonPortal -INFO - click on login button
+2020-12-14 11:06:25,914 - AmazonPortal -INFO - Enter Password
+2020-12-14 11:06:26,110 - AmazonPortal -INFO - select CheckBox
+2020-12-14 11:06:26,437 - AmazonPortal -INFO - click on login button
+2020-12-14 11:08:17,364 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 11:08:23,706 - AmazonPortal -INFO - click on search button
+2020-12-14 11:31:06,699 - AmazonPortal -INFO - launch URL
+2020-12-14 11:31:08,868 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 11:31:12,723 - AmazonPortal -INFO - launch URL
+2020-12-14 11:31:17,570 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 11:31:17,832 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 11:31:19,315 - AmazonPortal -INFO - click on login button
+2020-12-14 11:31:19,514 - AmazonPortal -INFO - Enter Password
+2020-12-14 11:31:19,691 - AmazonPortal -INFO - select CheckBox
+2020-12-14 11:31:19,971 - AmazonPortal -INFO - click on login button
+2020-12-14 11:31:56,859 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 11:32:04,042 - AmazonPortal -INFO - click on search button
+2020-12-14 11:34:16,117 - AmazonPortal -INFO - launch URL
+2020-12-14 11:34:21,377 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 11:34:21,614 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 11:34:23,883 - AmazonPortal -INFO - click on login button
+2020-12-14 11:34:24,062 - AmazonPortal -INFO - Enter Password
+2020-12-14 11:34:24,218 - AmazonPortal -INFO - select CheckBox
+2020-12-14 11:34:24,531 - AmazonPortal -INFO - click on login button
+2020-12-14 11:34:57,456 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 11:35:04,339 - AmazonPortal -INFO - click on search button
+2020-12-14 19:03:38,777 - AmazonPortal -INFO - launch URL
+2020-12-14 19:03:48,960 - AmazonPortal -INFO - click on signIn Button
+2020-12-14 19:03:49,580 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-14 19:03:52,125 - AmazonPortal -INFO - click on login button
+2020-12-14 19:03:52,318 - AmazonPortal -INFO - Enter Password
+2020-12-14 19:03:52,488 - AmazonPortal -INFO - select CheckBox
+2020-12-14 19:03:52,896 - AmazonPortal -INFO - click on login button
+2020-12-14 19:04:32,718 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-14 19:04:40,319 - AmazonPortal -INFO - click on search button
+2020-12-14 19:04:47,152 - AmazonPortal -INFO - launch URL
+2020-12-15 06:45:56,948 - AmazonPortal -INFO - launch URL
+2020-12-15 06:45:59,926 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 06:46:00,363 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 06:46:02,135 - AmazonPortal -INFO - click on login button
+2020-12-15 06:46:02,389 - AmazonPortal -INFO - Enter Password
+2020-12-15 06:46:02,592 - AmazonPortal -INFO - select CheckBox
+2020-12-15 06:46:02,884 - AmazonPortal -INFO - click on login button
+2020-12-15 06:46:37,776 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-15 06:46:41,825 - AmazonPortal -INFO - click on search button
+2020-12-15 06:46:52,309 - AmazonPortal -INFO - launch URL
+2020-12-15 06:57:13,870 - AmazonPortal -INFO - launch URL
+2020-12-15 06:57:19,882 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 06:57:20,071 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 06:57:20,309 - AmazonPortal -INFO - click on login button
+2020-12-15 06:57:21,262 - AmazonPortal -INFO - launch URL
+2020-12-15 06:57:33,181 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 06:57:33,662 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 06:57:36,786 - AmazonPortal -INFO - click on login button
+2020-12-15 06:57:37,044 - AmazonPortal -INFO - Enter Password
+2020-12-15 06:57:37,286 - AmazonPortal -INFO - select CheckBox
+2020-12-15 06:57:37,668 - AmazonPortal -INFO - click on login button
+2020-12-15 06:57:38,275 - AmazonPortal -INFO - launch URL
+2020-12-15 06:57:42,559 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 06:58:18,872 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-15 06:58:27,212 - AmazonPortal -INFO - click on search button
+2020-12-15 06:58:38,966 - AmazonPortal -INFO - launch URL
+2020-12-15 06:58:46,177 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 06:58:46,435 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 06:58:48,525 - AmazonPortal -INFO - launch URL
+2020-12-15 06:58:48,759 - AmazonPortal -INFO - click on login button
+2020-12-15 06:58:49,023 - AmazonPortal -INFO - Enter Password
+2020-12-15 06:58:49,280 - AmazonPortal -INFO - select CheckBox
+2020-12-15 06:58:49,616 - AmazonPortal -INFO - click on login button
+2020-12-15 07:25:10,530 - AmazonPortal -INFO - launch URL
+2020-12-15 07:25:13,904 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 07:25:14,161 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 07:25:15,982 - AmazonPortal -INFO - click on login button
+2020-12-15 07:25:16,244 - AmazonPortal -INFO - Enter Password
+2020-12-15 07:25:16,410 - AmazonPortal -INFO - select CheckBox
+2020-12-15 07:25:16,689 - AmazonPortal -INFO - click on login button
+2020-12-15 07:25:48,223 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-15 07:25:53,475 - AmazonPortal -INFO - click on search button
+2020-12-15 07:25:59,898 - AmazonPortal -INFO - launch URL
+2020-12-15 07:28:10,514 - AmazonPortal -INFO - launch URL
+2020-12-15 07:34:13,952 - AmazonPortal -INFO - launch URL
+2020-12-15 07:34:19,696 - AmazonPortal -INFO - launch URL
+2020-12-15 07:34:23,397 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 07:34:24,113 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 07:34:31,940 - AmazonPortal -INFO - launch URL
+2020-12-15 07:34:34,782 - AmazonPortal -INFO - click on login button
+2020-12-15 07:34:39,712 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 07:34:40,117 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 07:34:41,468 - AmazonPortal -INFO - click on login button
+2020-12-15 07:34:41,889 - AmazonPortal -INFO - Enter Password
+2020-12-15 07:34:42,033 - AmazonPortal -INFO - select CheckBox
+2020-12-15 07:34:42,293 - AmazonPortal -INFO - click on login button
+2020-12-15 07:35:15,712 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-15 07:35:22,795 - AmazonPortal -INFO - click on search button
+2020-12-15 07:38:07,252 - AmazonPortal -INFO - launch URL
+2020-12-15 07:38:10,144 - AmazonPortal -INFO - launch URL
+2020-12-15 07:38:11,562 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 07:38:11,922 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 07:38:31,591 - AmazonPortal -INFO - launch URL
+2020-12-15 07:38:58,137 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 07:38:58,347 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 07:38:58,474 - AmazonPortal -INFO - click on login button
+2020-12-15 07:43:57,922 - AmazonPortal -INFO - launch URL
+2020-12-15 07:44:00,748 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 07:44:01,004 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 07:44:02,497 - AmazonPortal -INFO - click on login button
+2020-12-15 07:44:02,719 - AmazonPortal -INFO - Enter Password
+2020-12-15 07:44:02,879 - AmazonPortal -INFO - select CheckBox
+2020-12-15 07:44:03,170 - AmazonPortal -INFO - click on login button
+2020-12-15 07:44:35,704 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-15 07:44:40,748 - AmazonPortal -INFO - click on search button
+2020-12-15 07:47:15,278 - AmazonPortal -INFO - launch URL
+2020-12-15 07:47:21,961 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 07:47:22,208 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 07:47:24,254 - AmazonPortal -INFO - click on login button
+2020-12-15 07:47:24,443 - AmazonPortal -INFO - Enter Password
+2020-12-15 07:47:24,659 - AmazonPortal -INFO - select CheckBox
+2020-12-15 07:47:24,966 - AmazonPortal -INFO - click on login button
+2020-12-15 07:47:55,857 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-15 07:48:04,897 - AmazonPortal -INFO - click on search button
+2020-12-15 08:12:55,702 - AmazonPortal -INFO - launch URL
+2020-12-15 08:12:58,270 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 08:12:58,495 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 08:12:59,935 - AmazonPortal -INFO - click on login button
+2020-12-15 08:13:00,146 - AmazonPortal -INFO - Enter Password
+2020-12-15 08:13:00,269 - AmazonPortal -INFO - select CheckBox
+2020-12-15 08:13:00,388 - AmazonPortal -INFO - click on login button
+2020-12-15 08:25:12,957 - AmazonPortal -INFO - launch URL
+2020-12-15 08:25:16,634 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 08:25:16,864 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 08:25:18,421 - AmazonPortal -INFO - click on login button
+2020-12-15 08:25:18,601 - AmazonPortal -INFO - Enter Password
+2020-12-15 08:25:18,768 - AmazonPortal -INFO - select CheckBox
+2020-12-15 08:25:19,062 - AmazonPortal -INFO - click on login button
+2020-12-15 08:25:54,904 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-15 08:25:59,402 - AmazonPortal -INFO - click on search button
+2020-12-15 09:00:32,241 - AmazonPortal -INFO - launch URL
+2020-12-15 09:04:07,295 - AmazonPortal -INFO - launch URL
+2020-12-15 09:04:09,898 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 09:04:10,910 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 09:04:13,235 - AmazonPortal -INFO - click on login button
+2020-12-15 09:04:13,630 - AmazonPortal -INFO - Enter Password
+2020-12-15 09:04:13,947 - AmazonPortal -INFO - select CheckBox
+2020-12-15 09:04:16,514 - AmazonPortal -INFO - click on login button
+2020-12-15 09:05:44,423 - AmazonPortal -INFO - launch URL
+2020-12-15 09:05:55,547 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 09:13:55,348 - AmazonPortal -INFO - launch URL
+2020-12-15 09:14:02,271 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 10:20:27,659 - AmazonPortal -INFO - launch URL
+2020-12-15 10:20:37,087 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 10:21:41,698 - AmazonPortal -INFO - launch URL
+2020-12-15 10:21:47,655 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 10:25:25,133 - AmazonPortal -INFO - launch URL
+2020-12-15 10:25:28,618 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 10:34:20,172 - AmazonPortal -INFO - launch URL
+2020-12-15 10:34:28,603 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 10:34:29,087 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 10:34:31,197 - AmazonPortal -INFO - click on login button
+2020-12-15 10:34:31,500 - AmazonPortal -INFO - Enter Password
+2020-12-15 10:34:31,812 - AmazonPortal -INFO - select CheckBox
+2020-12-15 10:34:32,252 - AmazonPortal -INFO - click on login button
+2020-12-15 10:35:41,672 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-15 10:35:48,166 - AmazonPortal -INFO - click on search button
+2020-12-15 10:36:56,484 - AmazonPortal -INFO - launch URL
+2020-12-15 10:37:04,779 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 10:37:05,465 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 10:37:08,282 - AmazonPortal -INFO - click on login button
+2020-12-15 10:37:08,780 - AmazonPortal -INFO - Enter Password
+2020-12-15 10:37:09,179 - AmazonPortal -INFO - select CheckBox
+2020-12-15 10:37:09,805 - AmazonPortal -INFO - click on login button
+2020-12-15 10:37:45,499 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-15 10:38:17,335 - AmazonPortal -INFO - click on search button
+2020-12-15 16:26:56,725 - AmazonPortal -INFO - launch URL
+2020-12-15 16:27:05,039 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 16:27:05,748 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 16:27:08,329 - AmazonPortal -INFO - click on login button
+2020-12-15 16:27:08,724 - AmazonPortal -INFO - Enter Password
+2020-12-15 16:27:09,013 - AmazonPortal -INFO - select CheckBox
+2020-12-15 16:27:09,777 - AmazonPortal -INFO - click on login button
+2020-12-15 16:27:59,260 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-15 16:28:02,402 - AmazonPortal -INFO - click on search button
+2020-12-15 18:30:45,464 - AmazonPortal -INFO - launch URL
+2020-12-15 18:30:53,666 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 18:30:54,781 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 18:30:57,786 - AmazonPortal -INFO - click on login button
+2020-12-15 18:30:57,990 - AmazonPortal -INFO - Enter Password
+2020-12-15 18:30:58,137 - AmazonPortal -INFO - select CheckBox
+2020-12-15 18:31:00,570 - AmazonPortal -INFO - click on login button
+2020-12-15 18:31:29,329 - AmazonPortal -INFO - enter the product which we have to search
+2020-12-15 18:31:47,769 - AmazonPortal -INFO - click on search button
+2020-12-15 18:36:23,571 - AmazonPortal -INFO - launch URL
+2020-12-15 18:36:25,661 - AmazonPortal -INFO - click on signIn Button
+2020-12-15 18:36:26,029 - AmazonPortal -INFO - enter phoneNumber/Mail
+2020-12-15 18:36:27,491 - AmazonPortal -INFO - click on login button
+2020-12-15 18:36:27,696 - AmazonPortal -INFO - Enter Password
+2020-12-15 18:36:27,871 - AmazonPortal -INFO - select CheckBox
+2020-12-15 18:36:28,123 - AmazonPortal -INFO - click on login button
